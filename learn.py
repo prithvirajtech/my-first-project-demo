@@ -44,7 +44,4 @@ clear_btn = tk.Button(root, text="C", width=22, height=2, command=clear, bg="red
 clear_btn.grid(row=5, column=0, columnspan=4, pady=5)
 
 root.mainloop()
-a = 5
-b = 10  
-c = a + b
-print(c)                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                             
