@@ -1,4 +1,3 @@
-a = "apjlwl"
-print (len(a)
-       
-       )
+a = 2
+
+print (a)
